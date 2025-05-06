@@ -27,16 +27,7 @@ So I started sharing parts of my actual projects—cleaned up and focused on lea
 
 ---
 
-## 📦 Getting Started
-
-```bash
-git clone https://github.com/your-username/nextjs-hero-section-tailwind-framer-motion.git
-cd nextjs-hero-section-tailwind-framer-motion
-npm install
-npm run dev
-Open http://localhost:3000 to see the component in action.
-
-🧩 How it works
+## 🧩 How it works
 Hero image set as backgroundImage via props
 
 Title and subtitle passed dynamically
@@ -48,12 +39,23 @@ Fully responsive and animated on load
 Utility-first styling with Tailwind classes
 
 Optional prop customization for integration
-
-🤝 Contributing
+---
+## 🤝 Contributing
 Feel free to fork this repo or use the component in your own projects.
 If it helps you, just give it a ⭐ star!
 
-📬 Contact
+## 📬 Contact
 Created with ❤️ by Mohammad Dakhili
 
+---
 
+## 📦 Getting Started
+
+```bash
+git clone https://github.com/your-username/nextjs-hero-section-tailwind-framer-motion.git
+cd nextjs-hero-section-tailwind-framer-motion
+npm install
+npm run dev
+---
+Open http://localhost:3000 to see the component in action.
+---
