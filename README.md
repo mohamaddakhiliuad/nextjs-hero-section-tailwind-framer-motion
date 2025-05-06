@@ -5,12 +5,6 @@ It’s designed to be **modular**, **responsive**, and easy to integrate into an
 
 ---
 
-## 📸 Preview
-
-![Hero Screenshot](./public/hero-preview.png)
-
----
-
 ## 🚀 Why this matters
 
 After years of working in development and digital branding, I realized how hard it is to find **real-world code samples** that are:
@@ -40,3 +34,26 @@ git clone https://github.com/your-username/nextjs-hero-section-tailwind-framer-m
 cd nextjs-hero-section-tailwind-framer-motion
 npm install
 npm run dev
+Open http://localhost:3000 to see the component in action.
+
+🧩 How it works
+Hero image set as backgroundImage via props
+
+Title and subtitle passed dynamically
+
+Two CTA buttons with onClick event support
+
+Fully responsive and animated on load
+
+Utility-first styling with Tailwind classes
+
+Optional prop customization for integration
+
+🤝 Contributing
+Feel free to fork this repo or use the component in your own projects.
+If it helps you, just give it a ⭐ star!
+
+📬 Contact
+Created with ❤️ by Mohammad Dakhili
+
+
